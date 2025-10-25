@@ -190,4 +190,3 @@ REACT_APP_BUDGET_LIMIT=1000
 
 🌐 Portfolio: https://albinademajportfolio.netlify.app/
 
-“Focus on clean functionality over perfection — simplicity done right.”
